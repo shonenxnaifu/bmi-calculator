@@ -2,6 +2,9 @@
 
 > BMI Calculator
 
+# Demo
+https://pawitra-bmi-calculator.netlify.app/
+
 ## Build Setup
 
 ```bash
